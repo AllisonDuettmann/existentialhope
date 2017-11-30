@@ -8,7 +8,7 @@ published: true
 ---
 # **X Hope** 
 
-contribute via [this form](https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me at a.duettmann@foresight.org
+contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me at a.duettmann@foresight.org
 
 ![image alt text]({{ site.url }}/public/fhyf8J2oh5tPfkJvoL3ENg_img_0.jpg)
 
@@ -16,7 +16,7 @@ contribute via [this form](https://goo.gl/forms/RtY9BrFfSt77nRIs1) or contact me
 
 ## Vision
 
-* [The reason for me writing this index](http://www.existentialhope.com/the-reason-for-me-writing-this-index/)
+* [The reason for me writing this index](https://docs.google.com/document/d/1-H2hDKiuxnPULIv33Rn0fixZb-YXp0HyeAH0KD2aBNo/edit)
 
 * [Please contribute!](http://www.existentialhope.com/please-contribute!/)
 
