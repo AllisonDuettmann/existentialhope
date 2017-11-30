@@ -62,5 +62,5 @@ contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9B
 
 * [Interest & Innovation](https://docs.google.com/document/d/13tHnz7uQgKYPSIxRvRlU1MJ0kGsGI1rYDCJvgc5Qflg/edit)
 
-* [Questioning Yourself & Others](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
+* [Question Yourself & Others](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
 
