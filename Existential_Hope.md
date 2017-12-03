@@ -64,3 +64,8 @@ contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9B
 
 * [Question Yourself & Others](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
 
+## Vision Weekend
+
+* [Strategy Sessions](https://docs.google.com/document/d/1QFBN9TZ7QYpevl7iVMHDHtB2Gncgt3h8T1fke5WvAl8/edit)
+
+
