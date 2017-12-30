@@ -64,12 +64,3 @@ contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9B
 
 * [Question Yourself & Others](https://docs.google.com/document/d/12IrSE0uNhPfaR0HoW2w64n2AKBX5Cs8BDUeAtu0J0LY/edit)
 
-## Vision Weekend
-
-* [Vision Collection](https://docs.google.com/document/d/1FWJsZhVVM8yyy8Kjhmtif0NWvsrH9g4l0wa-dz27uD0/edit)
-
-* [Impressions](https://docs.google.com/document/d/1KuRvJTnR0mgYtVDTU5eYpf3B9jOzM8oMCnxvURlfMQ4/edit)
-
-* [Strategy Sessions](https://docs.google.com/document/d/1QFBN9TZ7QYpevl7iVMHDHtB2Gncgt3h8T1fke5WvAl8/edit)
-
-
