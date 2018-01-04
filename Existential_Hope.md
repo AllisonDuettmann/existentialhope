@@ -12,7 +12,7 @@ contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9B
 
 ![image alt text]({{ site.url }}/public/fhyf8J2oh5tPfkJvoL3ENg_img_0.jpg)
 
-* [Robert McCall The Prologue and the Promise](http://www.mccallstudios.com/the-prologue-and-the-promise/)
+[Robert McCall The Prologue and the Promise](http://www.mccallstudios.com/the-prologue-and-the-promise/)
 
 ## Vision
 
@@ -50,7 +50,7 @@ contribute by commenting on the docs, via [this form](https://goo.gl/forms/RtY9B
 
 * [Mind & Meditation](https://docs.google.com/document/d/16lyzHgAaNrWAFz_9XcSFiyTlEEsGVGwj3FR55_TvTnw/edit#)
 
-* [Psychology & Persuasion](https://docs.google.com/document/d/1GuW8ihk31Z1ZFxMKWfB5haFjGw4G-4KSnhKj89uHb6Y/edit#)
+* [(Evolutionary) Psychology & Persuasion](https://docs.google.com/document/d/1GuW8ihk31Z1ZFxMKWfB5haFjGw4G-4KSnhKj89uHb6Y/edit#)
 
 * [Effective Altruism](https://docs.google.com/document/d/1dVmQw5eT6AeQIT9pTK3Eboebv_QwixRAruiESjCgaPI/edit#)
 
